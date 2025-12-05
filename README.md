@@ -323,3 +323,12 @@ If you or someone you know needs immediate mental health support:
 The BeyondBabyBlues API is designed to provide supportive information and connect users with professional help. It is not a substitute for professional mental health treatment, therapy, or medical care. Always consult with qualified healthcare providers for serious mental health concerns.
 
 <img width="1214" height="617" alt="Screenshot 2025-12-05 at 12 25 38 PM" src="https://github.com/user-attachments/assets/320adb43-31b8-479e-b0d4-0323240ac4b8" />
+
+<img width="1238" height="615" alt="Screenshot 2025-12-05 at 12 26 08 PM" src="https://github.com/user-attachments/assets/92ccc296-8977-4a29-ad88-5192b6116982" />
+
+<img width="1254" height="662" alt="Screenshot 2025-12-05 at 12 26 19 PM" src="https://github.com/user-attachments/assets/de211304-6a27-4a20-9419-7c95eaffb69d" />
+
+<img width="1238" height="615" alt="Screenshot 2025-12-05 at 12 26 08 PM" src="https://github.com/user-attachments/assets/a05e7aa7-a24f-4e17-ab17-d72e5887b696" />
+
+
+
