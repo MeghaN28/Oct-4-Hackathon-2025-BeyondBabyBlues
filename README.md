@@ -321,3 +321,5 @@ If you or someone you know needs immediate mental health support:
 
 ### Professional Mental Health Services
 The BeyondBabyBlues API is designed to provide supportive information and connect users with professional help. It is not a substitute for professional mental health treatment, therapy, or medical care. Always consult with qualified healthcare providers for serious mental health concerns.
+
+<img width="1214" height="617" alt="Screenshot 2025-12-05 at 12 25 38 PM" src="https://github.com/user-attachments/assets/320adb43-31b8-479e-b0d4-0323240ac4b8" />
